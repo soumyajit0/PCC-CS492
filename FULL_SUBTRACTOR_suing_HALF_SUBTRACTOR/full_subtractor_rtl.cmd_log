@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_rtl.xst" -ofn "/home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_rtl.syr" 

@@ -1,0 +1,2 @@
+vhdl isim_temp "or_rtl.vhd"
+vhdl isim_temp "or_test.vhd"

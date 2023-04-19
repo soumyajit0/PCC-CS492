@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/PCC-CS492/FULL_ADDER/full_adder_test_isim_beh.exe" -prj "/home/ise/PCC-CS492/FULL_ADDER/full_adder_test_beh.prj" "work.full_adder_test" 

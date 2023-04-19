@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/13000221080/AND/and_rtl.xst" -ofn "/home/ise/13000221080/AND/and_rtl.syr" 

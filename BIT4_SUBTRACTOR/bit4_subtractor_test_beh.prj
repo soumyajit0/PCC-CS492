@@ -1,0 +1,4 @@
+vhdl work "../XOR/xor_rtl.vhd"
+vhdl work "../FULL_SUBTRACTOR/full_subtractor_rtl.vhd"
+vhdl work "bit4_subtractor.vhd"
+vhdl work "bit4_subtractor_test.vhd"

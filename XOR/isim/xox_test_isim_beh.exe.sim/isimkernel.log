@@ -1,0 +1,29 @@
+Command line:
+   xox_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  47649
+
+Wed Apr 19 10:57:16 2023
+
+
+ Elaboration Time: 0.66 sec
+
+ Current Memory Usage: 215.269 Meg
+
+ Total Signals          : 8
+ Total Nets             : 5
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 365
+Total Line Count : 15
+
+ Total Simulation Time: 21.99 sec
+
+ Current Memory Usage: 292.868 Meg
+
+Wed Apr 19 10:57:41 2023
+

@@ -1,0 +1,3 @@
+vhdl isim_temp "../XOR/xor_rtl.vhd"
+vhdl isim_temp "half_adder_rtl.vhd"
+vhdl isim_temp "half_adder_test.vhd"

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="BIT4_SUBTRACTOR.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="bit4_subtractor.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="bit4_subtractor.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="bit4_subtractor.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="bit4_subtractor.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="bit4_subtractor.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="bit4_subtractor.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="bit4_subtractor.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="bit4_subtractor.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="bit4_subtractor_test_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="bit4_subtractor_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="bit4_subtractor_test_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="bit4_subtractor_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="bit4_subtractor_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1681923651" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1681923651">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923864" xil_pn:in_ck="2209965977374388403" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1681923864">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../FULL_SUBTRACTOR/full_subtractor_rtl.vhd"/>
+      <outfile xil_pn:name="../XOR/xor_rtl.vhd"/>
+      <outfile xil_pn:name="bit4_subtractor.vhd"/>
+      <outfile xil_pn:name="bit4_subtractor_test.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923878" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-2711304333730847984" xil_pn:start_ts="1681923878">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923878" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="8938653280511685064" xil_pn:start_ts="1681923878">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923651" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="2809113918824921830" xil_pn:start_ts="1681923651">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923878" xil_pn:in_ck="2209965977374388403" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1681923878">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../FULL_SUBTRACTOR/full_subtractor_rtl.vhd"/>
+      <outfile xil_pn:name="../XOR/xor_rtl.vhd"/>
+      <outfile xil_pn:name="bit4_subtractor.vhd"/>
+      <outfile xil_pn:name="bit4_subtractor_test.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923892" xil_pn:in_ck="2209965977374388403" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-1464123590172653699" xil_pn:start_ts="1681923878">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="bit4_subtractor_test_beh.prj"/>
+      <outfile xil_pn:name="bit4_subtractor_test_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923893" xil_pn:in_ck="-8875154955227737271" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-1885665447867346390" xil_pn:start_ts="1681923892">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="bit4_subtractor_test_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923555" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1681923555">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923555" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-8012618404978389258" xil_pn:start_ts="1681923555">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923555" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="2809113918824921830" xil_pn:start_ts="1681923555">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923555" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1681923555">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923555" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="3691571382009645374" xil_pn:start_ts="1681923555">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923555" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="4779560239316253549" xil_pn:start_ts="1681923555">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923555" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="7615628097719211632" xil_pn:start_ts="1681923555">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1681923610" xil_pn:in_ck="-8856630404441938295" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="-457476963311366620" xil_pn:start_ts="1681923555">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name=".lso"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="bit4_subtractor.lso"/>
+      <outfile xil_pn:name="bit4_subtractor.ngc"/>
+      <outfile xil_pn:name="bit4_subtractor.ngr"/>
+      <outfile xil_pn:name="bit4_subtractor.prj"/>
+      <outfile xil_pn:name="bit4_subtractor.stx"/>
+      <outfile xil_pn:name="bit4_subtractor.syr"/>
+      <outfile xil_pn:name="bit4_subtractor.xst"/>
+      <outfile xil_pn:name="bit4_subtractor_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

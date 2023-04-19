@@ -1,0 +1,4 @@
+vhdl isim_temp "../XOR/xor_rtl.vhd"
+vhdl isim_temp "../HALF_SUBTRACTOR/half_subtractor_rtl.vhd"
+vhdl isim_temp "full_subtractor_rtl.vhd"
+vhdl isim_temp "full_subtractor_test.vhd"

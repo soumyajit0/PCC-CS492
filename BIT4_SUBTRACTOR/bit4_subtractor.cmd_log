@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/BIT4_SUBTRACTOR/bit4_subtractor.xst" -ofn "/home/ise/PCC-CS492/BIT4_SUBTRACTOR/bit4_subtractor.syr" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_test_isim_beh.exe" -prj "/home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_test_beh.prj" "work.full_subtractor_test" 

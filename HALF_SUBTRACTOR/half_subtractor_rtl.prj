@@ -1,0 +1,2 @@
+vhdl work "../../PCC-CS492/XOR/xor_rtl.vhd"
+vhdl work "half_subtractor_rtl.vhd"

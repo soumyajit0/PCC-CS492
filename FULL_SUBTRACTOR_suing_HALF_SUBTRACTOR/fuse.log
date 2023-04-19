@@ -1,0 +1,26 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_test_isim_beh.exe -prj /home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_test_beh.prj work.full_subtractor_test 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 6
+Turning on mult-threading, number of parallel sub-compilation jobs: 12 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/../XOR/xor_rtl.vhd" into library work
+Parsing VHDL file "/home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/../HALF_SUBTRACTOR/half_subtractor_rtl.vhd" into library work
+Parsing VHDL file "/home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_rtl.vhd" into library work
+Parsing VHDL file "/home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95316 KB
+Fuse CPU Usage: 8440 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity xor_rtl [xor_rtl_default]
+Compiling architecture behavioral of entity half_subtractor_rtl [half_subtractor_rtl_default]
+Compiling architecture behavioral of entity full_subtractor_rtl [full_subtractor_rtl_default]
+Compiling architecture behavior of entity full_subtractor_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable /home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_test_isim_beh.exe
+Fuse Memory Usage: 921180 KB
+Fuse CPU Usage: 8810 ms
+GCC CPU Usage: 5610 ms

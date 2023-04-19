@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/PCC-CS492/BIT4_SUBTRACTOR/bit4_subtractor_test_isim_beh.exe" -prj "/home/ise/PCC-CS492/BIT4_SUBTRACTOR/bit4_subtractor_test_beh.prj" "work.bit4_subtractor_test" 

@@ -1,0 +1,6 @@
+EN xor_rtl NULL /home/ise/PCC-CS492/XOR/xor_rtl.vhd sub00/vhpl00 1681921443
+EN full_subtractor_rtl NULL /home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_rtl.vhd sub00/vhpl04 1681921447
+AR full_subtractor_rtl behavioral /home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_rtl.vhd sub00/vhpl05 1681921448
+AR half_subtractor_rtl behavioral /home/ise/PCC-CS492/HALF_SUBTRACTOR/half_subtractor_rtl.vhd sub00/vhpl03 1681921446
+AR xor_rtl behavioral /home/ise/PCC-CS492/XOR/xor_rtl.vhd sub00/vhpl01 1681921444
+EN half_subtractor_rtl NULL /home/ise/PCC-CS492/HALF_SUBTRACTOR/half_subtractor_rtl.vhd sub00/vhpl02 1681921445

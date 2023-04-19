@@ -1,0 +1,3 @@
+vhdl work "../../PCC-CS492/XOR/xor_rtl.vhd"
+vhdl work "full_subtractor_rtl.vhd"
+vhdl work "full_subtractor_test.vhd"

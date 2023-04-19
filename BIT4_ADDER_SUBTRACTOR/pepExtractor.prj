@@ -1,0 +1,3 @@
+work	"../FULL_ADDER/full_adder_rtl.vhd"
+work	"../XOR/xor_rtl.vhd"
+work	"bit4_adder_subtractor_rtl.vhd"

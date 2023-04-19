@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/PCC-CS492/NAND/nand_test_isim_beh.exe" -prj "/home/ise/PCC-CS492/NAND/nand_test_beh.prj" "work.nand_test" 

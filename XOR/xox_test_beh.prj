@@ -1,0 +1,2 @@
+vhdl work "xor_rtl.vhd"
+vhdl work "xox_test.vhd"

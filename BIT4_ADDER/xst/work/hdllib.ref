@@ -1,0 +1,6 @@
+EN bit4_adder_rtl NULL /home/ise/PCC-CS492/BIT4_ADDER/bit4_adder_rtl.vhd sub00/vhpl04 1681922651
+EN full_adder_rtl NULL /home/ise/PCC-CS492/FULL_ADDER/full_adder_rtl.vhd sub00/vhpl02 1681922649
+AR full_adder_rtl behavioral /home/ise/PCC-CS492/FULL_ADDER/full_adder_rtl.vhd sub00/vhpl03 1681922650
+EN xor_rtl NULL /home/ise/PCC-CS492/XOR/xor_rtl.vhd sub00/vhpl00 1681922647
+AR xor_rtl behavioral /home/ise/PCC-CS492/XOR/xor_rtl.vhd sub00/vhpl01 1681922648
+AR bit4_adder_rtl behavioral /home/ise/PCC-CS492/BIT4_ADDER/bit4_adder_rtl.vhd sub00/vhpl05 1681922652

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/OR/or_rtl.xst" -ofn "/home/ise/PCC-CS492/OR/or_rtl.syr" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/13000221080/FULL_SUBTRACTOR/full_subtractor_test_isim_beh.exe" -prj "/home/ise/13000221080/FULL_SUBTRACTOR/full_subtractor_test_beh.prj" "work.full_subtractor_test" 

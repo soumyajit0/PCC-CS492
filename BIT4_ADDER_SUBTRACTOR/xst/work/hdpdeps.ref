@@ -1,0 +1,19 @@
+V3 11
+FL /home/ise/PCC-CS492/BIT4_ADDER_SUBTRACTOR/bit4_adder_subtractor_rtl.vhd 2023/04/19.17:40:50 P.20131013
+EN work/bit4_adder_subtractor 1681926080 \
+      FL /home/ise/PCC-CS492/BIT4_ADDER_SUBTRACTOR/bit4_adder_subtractor_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/bit4_adder_subtractor/Behavioral 1681926081 \
+      FL /home/ise/PCC-CS492/BIT4_ADDER_SUBTRACTOR/bit4_adder_subtractor_rtl.vhd \
+      EN work/bit4_adder_subtractor 1681926080 CP full_adder_rtl
+FL /home/ise/PCC-CS492/FULL_ADDER/full_adder_rtl.vhd 2023/04/19.11:28:11 P.20131013
+EN work/full_adder_rtl 1681926078 \
+      FL /home/ise/PCC-CS492/FULL_ADDER/full_adder_rtl.vhd PB ieee/std_logic_1164 1381692176
+AR work/full_adder_rtl/Behavioral 1681926079 \
+      FL /home/ise/PCC-CS492/FULL_ADDER/full_adder_rtl.vhd EN work/full_adder_rtl 1681926078 \
+      CP xor_rtl
+FL /home/ise/PCC-CS492/XOR/xor_rtl.vhd 2023/04/19.10:39:29 P.20131013
+EN work/xor_rtl 1681926076 FL /home/ise/PCC-CS492/XOR/xor_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/xor_rtl/Behavioral 1681926077 \
+      FL /home/ise/PCC-CS492/XOR/xor_rtl.vhd EN work/xor_rtl 1681926076

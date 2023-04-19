@@ -1,0 +1,2 @@
+work	"../../PCC-CS492/XOR/xor_rtl.vhd"
+work	"full_subtractor_rtl.vhd"

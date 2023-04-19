@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/PCC-CS492/OR/or_rtl.vhd 2023/04/19.09:45:53 P.20131013
+EN work/or_rtl 1681897600 FL /home/ise/PCC-CS492/OR/or_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/or_rtl/Behavioral 1681897601 \
+      FL /home/ise/PCC-CS492/OR/or_rtl.vhd EN work/or_rtl 1681897600

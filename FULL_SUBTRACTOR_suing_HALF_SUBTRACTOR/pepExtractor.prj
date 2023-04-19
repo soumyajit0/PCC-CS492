@@ -1,0 +1,3 @@
+work	"../HALF_SUBTRACTOR/half_subtractor_rtl.vhd"
+work	"../XOR/xor_rtl.vhd"
+work	"full_subtractor_rtl.vhd"

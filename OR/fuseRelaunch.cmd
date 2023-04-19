@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/PCC-CS492/OR/or_test_isim_beh.exe" -prj "/home/ise/PCC-CS492/OR/or_test_beh.prj" "work.or_test" 

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/HALF_ADDER/half_adder_rtl.xst" -ofn "/home/ise/PCC-CS492/HALF_ADDER/half_adder_rtl.syr" 

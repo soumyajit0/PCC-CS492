@@ -1,0 +1,20 @@
+V3 11
+FL /home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_rtl.vhd 2023/04/19.16:22:57 P.20131013
+EN work/full_subtractor_rtl 1681921447 \
+      FL /home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/full_subtractor_rtl/Behavioral 1681921448 \
+      FL /home/ise/PCC-CS492/FULL_SUBTRACTOR_suing_HALF_SUBTRACTOR/full_subtractor_rtl.vhd \
+      EN work/full_subtractor_rtl 1681921447 CP half_subtractor_rtl
+FL /home/ise/PCC-CS492/HALF_SUBTRACTOR/half_subtractor_rtl.vhd 2023/04/19.15:46:16 P.20131013
+EN work/half_subtractor_rtl 1681921445 \
+      FL /home/ise/PCC-CS492/HALF_SUBTRACTOR/half_subtractor_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/half_subtractor_rtl/Behavioral 1681921446 \
+      FL /home/ise/PCC-CS492/HALF_SUBTRACTOR/half_subtractor_rtl.vhd \
+      EN work/half_subtractor_rtl 1681921445 CP xor_rtl
+FL /home/ise/PCC-CS492/XOR/xor_rtl.vhd 2023/04/19.10:39:29 P.20131013
+EN work/xor_rtl 1681921443 FL /home/ise/PCC-CS492/XOR/xor_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/xor_rtl/Behavioral 1681921444 \
+      FL /home/ise/PCC-CS492/XOR/xor_rtl.vhd EN work/xor_rtl 1681921443

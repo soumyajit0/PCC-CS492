@@ -1,0 +1,6 @@
+AR bit4_subtractor behavioral /home/ise/PCC-CS492/BIT4_SUBTRACTOR/bit4_subtractor.vhd sub00/vhpl05 1681923580
+EN xor_rtl NULL /home/ise/PCC-CS492/XOR/xor_rtl.vhd sub00/vhpl00 1681923575
+EN full_subtractor_rtl NULL /home/ise/PCC-CS492/FULL_SUBTRACTOR/full_subtractor_rtl.vhd sub00/vhpl02 1681923577
+EN bit4_subtractor NULL /home/ise/PCC-CS492/BIT4_SUBTRACTOR/bit4_subtractor.vhd sub00/vhpl04 1681923579
+AR full_subtractor_rtl behavioral /home/ise/PCC-CS492/FULL_SUBTRACTOR/full_subtractor_rtl.vhd sub00/vhpl03 1681923578
+AR xor_rtl behavioral /home/ise/PCC-CS492/XOR/xor_rtl.vhd sub00/vhpl01 1681923576

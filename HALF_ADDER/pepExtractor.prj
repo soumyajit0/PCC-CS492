@@ -1,0 +1,2 @@
+work	"../XOR/xor_rtl.vhd"
+work	"half_adder_rtl.vhd"

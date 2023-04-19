@@ -1,0 +1,2 @@
+vhdl work "nand_rtl.vhd"
+vhdl work "nand_test.vhd"

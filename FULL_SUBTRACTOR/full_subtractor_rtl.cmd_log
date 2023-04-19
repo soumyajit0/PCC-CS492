@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/13000221080/FULL_SUBTRACTOR/full_subtractor_rtl.xst" -ofn "/home/ise/13000221080/FULL_SUBTRACTOR/full_subtractor_rtl.syr" 
+netgen -intstyle ise -ar Structure -tm full_subtractor_rtl -w -dir netgen/synthesis -ofmt vhdl -sim full_subtractor_rtl.ngc full_subtractor_rtl_synthesis.vhd 

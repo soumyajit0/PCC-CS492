@@ -1,0 +1,3 @@
+vhdl work "../XOR/xor_rtl.vhd"
+vhdl work "../HALF_SUBTRACTOR/half_subtractor_rtl.vhd"
+vhdl work "full_subtractor_rtl.vhd"
