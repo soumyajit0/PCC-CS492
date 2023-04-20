@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/PCC-CS492/JK/jk_rtl.vhd 2023/04/20.10:33:32 P.20131013
+EN work/jk_rtl 1681986833 FL /home/ise/PCC-CS492/JK/jk_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/jk_rtl/Behavioral 1681986834 \
+      FL /home/ise/PCC-CS492/JK/jk_rtl.vhd EN work/jk_rtl 1681986833

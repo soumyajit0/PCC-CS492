@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/PCC-CS492/BIT4_COMPARATOR/bit4_comparator_test_isim_beh.exe" -prj "/home/ise/PCC-CS492/BIT4_COMPARATOR/bit4_comparator_test_beh.prj" "work.bit4_comparator_test" 

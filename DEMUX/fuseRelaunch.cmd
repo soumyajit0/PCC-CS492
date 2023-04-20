@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/PCC-CS492/DEMUX/demus_rtl_isim_beh.exe" -prj "/home/ise/PCC-CS492/DEMUX/demus_rtl_beh.prj" "work.demus_rtl" 

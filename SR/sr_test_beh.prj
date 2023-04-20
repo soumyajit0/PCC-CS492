@@ -1,0 +1,2 @@
+vhdl work "sr_rtl.vhd"
+vhdl work "sr_test.vhd"

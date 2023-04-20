@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/BIT4_COMPARATOR/bit4_comparator_rtl.xst" -ofn "/home/ise/PCC-CS492/BIT4_COMPARATOR/bit4_comparator_rtl.syr" 
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/BIT4_COMPARATOR/bit4_comparator_rtl.xst" -ofn "/home/ise/PCC-CS492/BIT4_COMPARATOR/bit4_comparator_rtl.syr" 

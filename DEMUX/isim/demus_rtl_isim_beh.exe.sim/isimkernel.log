@@ -1,0 +1,29 @@
+Command line:
+   demus_rtl_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  35243
+
+Thu Apr 20 09:55:41 2023
+
+
+ Elaboration Time: 0.46 sec
+
+ Current Memory Usage: 215.269 Meg
+
+ Total Signals          : 6
+ Total Nets             : 12
+ Total Signal Drivers   : 3
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 372
+Total Line Count : 34
+
+ Total Simulation Time: 14 sec
+
+ Current Memory Usage: 292.868 Meg
+
+Thu Apr 20 09:55:59 2023
+

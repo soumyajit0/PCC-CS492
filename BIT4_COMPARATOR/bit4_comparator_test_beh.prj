@@ -1,0 +1,2 @@
+vhdl work "bit4_comparator_rtl.vhd"
+vhdl work "bit4_comparator_test.vhd"

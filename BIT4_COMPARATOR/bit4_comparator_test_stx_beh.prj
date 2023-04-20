@@ -1,0 +1,2 @@
+vhdl isim_temp "bit4_comparator_rtl.vhd"
+vhdl isim_temp "bit4_comparator_test.vhd"

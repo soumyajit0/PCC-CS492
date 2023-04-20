@@ -1,0 +1,29 @@
+Command line:
+   bit4_comparator_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  42964
+
+Thu Apr 20 05:29:08 2023
+
+
+ Elaboration Time: 0.58 sec
+
+ Current Memory Usage: 215.278 Meg
+
+ Total Signals          : 22
+ Total Nets             : 23
+ Total Signal Drivers   : 17
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 16
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 383
+Total Line Count : 24
+
+ Total Simulation Time: 26.34 sec
+
+ Current Memory Usage: 292.876 Meg
+
+Thu Apr 20 05:29:35 2023
+

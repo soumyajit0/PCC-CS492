@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/PCC-CS492/MUX/mux_rtl.vhd 2023/04/20.09:27:47 P.20131013
+EN work/mux_rtl 1681982932 FL /home/ise/PCC-CS492/MUX/mux_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux_rtl/Behavioral 1681982933 \
+      FL /home/ise/PCC-CS492/MUX/mux_rtl.vhd EN work/mux_rtl 1681982932
