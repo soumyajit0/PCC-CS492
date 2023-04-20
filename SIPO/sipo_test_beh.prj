@@ -1,0 +1,3 @@
+vhdl work "../D/d_rtl.vhd"
+vhdl work "sipo_rtl.vhd"
+vhdl work "sipo_test.vhd"
