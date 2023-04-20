@@ -1,0 +1,24 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_test_isim_beh.exe -prj /home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_test_beh.prj work.up_down_counter_test 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 6
+Turning on mult-threading, number of parallel sub-compilation jobs: 12 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_rtl.vhd" into library work
+Parsing VHDL file "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 96652 KB
+Fuse CPU Usage: 8370 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity up_down_counter_rtl [up_down_counter_rtl_default]
+Compiling architecture behavior of entity up_down_counter_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable /home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_test_isim_beh.exe
+Fuse Memory Usage: 929044 KB
+Fuse CPU Usage: 9190 ms
+GCC CPU Usage: 1250 ms

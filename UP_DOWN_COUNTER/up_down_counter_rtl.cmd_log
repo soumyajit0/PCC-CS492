@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_rtl.xst" -ofn "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_rtl.syr" 
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_rtl.xst" -ofn "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_rtl.syr" 
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_rtl.xst" -ofn "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_rtl.syr" 
+xst -intstyle ise -ifn "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_rtl.xst" -ofn "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_rtl.syr" 

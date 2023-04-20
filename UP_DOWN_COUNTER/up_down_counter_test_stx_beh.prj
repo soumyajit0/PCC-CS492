@@ -1,0 +1,2 @@
+vhdl isim_temp "up_down_counter_rtl.vhd"
+vhdl isim_temp "up_down_counter_test.vhd"

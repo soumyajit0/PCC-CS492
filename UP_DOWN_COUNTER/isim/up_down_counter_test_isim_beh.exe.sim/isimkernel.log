@@ -1,0 +1,29 @@
+Command line:
+   up_down_counter_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  41802
+
+Thu Apr 20 11:26:16 2023
+
+
+ Elaboration Time: 0.46 sec
+
+ Current Memory Usage: 215.38 Meg
+
+ Total Signals          : 9
+ Total Nets             : 11
+ Total Signal Drivers   : 5
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 4
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 390
+Total Line Count : 17
+
+ Total Simulation Time: 13.31 sec
+
+ Current Memory Usage: 292.979 Meg
+
+Thu Apr 20 11:27:52 2023
+

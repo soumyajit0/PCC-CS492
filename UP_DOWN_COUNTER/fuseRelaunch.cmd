@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_test_isim_beh.exe" -prj "/home/ise/PCC-CS492/UP_DOWN_COUNTER/up_down_counter_test_beh.prj" "work.up_down_counter_test" 

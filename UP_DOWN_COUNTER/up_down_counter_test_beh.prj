@@ -1,0 +1,2 @@
+vhdl work "up_down_counter_rtl.vhd"
+vhdl work "up_down_counter_test.vhd"
