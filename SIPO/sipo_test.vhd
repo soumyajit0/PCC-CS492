@@ -84,10 +84,10 @@ BEGIN
    stim_proc: process
    begin
 		i <= '1';
-      clr <= '1';
+      		clr <= '1';
 		wait for clk_period;
 		i <= '0';
-      clr <= '1';
+      		clr <= '1';
 		wait for clk_period;
 		i <= '0';
 		clr <= '0';
