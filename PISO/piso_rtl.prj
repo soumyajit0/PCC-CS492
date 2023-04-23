@@ -1,0 +1,2 @@
+vhdl work "../D/d_rtl.vhd"
+vhdl work "piso_rtl.vhd"
