@@ -1,0 +1,2 @@
+vhdl work "DECODER_rtl.vhd"
+vhdl work "DECODER_test.vhd"
